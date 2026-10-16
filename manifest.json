@@ -1,0 +1,9 @@
+{
+	"id": "xport",
+	"name": "Xport",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "Exporteer de huidige notitie naar het klembord met opmaak voor Outlook; Obsidian-verwijzingen (@, locaties, wikilinks) worden platte tekst.",
+	"author": "s4ndyp",
+	"isDesktopOnly": false
+}
